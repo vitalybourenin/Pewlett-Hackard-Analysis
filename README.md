@@ -4,10 +4,16 @@ The purpose of this analysis was to better prepare the company for the future by
 ### Results
 - Pewlett Hackard has a total of 90,398 employees that are considered retirement-ready employees by our criteria.
 - Senior Engineers and Senior Staff constitute a majority of the company's retirement ready employees, accounting for 57,668 of the 90,398 retirement-ready employees.
+
+
 ![retiring_titles](retiring_titles.PNG)
+
 
 -Pewlett Hackard currently has a record of 1,940 employees eligible for the company's mentorship program (criteria: employee born in 1965)
 -The actual number of employees eigible for the mentorship program according to this criteria is lower than 1,940 as some of the employees included are no longer working at Pewlett Hackard. 
+
+![mentorship_eligibility](mentorship_eligible.PNG)
+
 
 ## Summary
 -It cannot be certain exactly when each of the 90,398 retirement-ready employees will truly retire, but it is safe to infer that there will be a substantial number of roles to be filled in the near future. 
